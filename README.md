@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT Bintang Niaga Jaya<br>👯 I’m looking to collaborate on .Net Developer<br>🌱 I’m currently learning Typescript
+🔭 I’m currently working on PT Bintang Niaga Jaya<br>👯 I’m looking to collaborate on **.Net Developer** projects  <br>🌱 I’m currently learning Typescript <br> 🤝 I’m interested in working together on **remote projects in .NET**
 
 
 ## 🌐 Socials:
